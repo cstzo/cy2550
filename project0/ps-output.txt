@@ -1,0 +1,195 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 13:40 ?        00:00:01 /sbin/init splash
+root           2       0  0 13:40 ?        00:00:00 [kthreadd]
+root           3       2  0 13:40 ?        00:00:00 [rcu_gp]
+root           4       2  0 13:40 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 13:40 ?        00:00:00 [slub_flushwq]
+root           6       2  0 13:40 ?        00:00:00 [netns]
+root           8       2  0 13:40 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 13:40 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 13:40 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 13:40 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 13:40 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 13:40 ?        00:00:01 [ksoftirqd/0]
+root          15       2  0 13:40 ?        00:00:02 [rcu_preempt]
+root          16       2  0 13:40 ?        00:00:00 [migration/0]
+root          17       2  0 13:40 ?        00:00:00 [idle_inject/0]
+root          18       2  0 13:40 ?        00:00:00 [kworker/0:1-cgroup_destroy]
+root          19       2  0 13:40 ?        00:00:00 [cpuhp/0]
+root          20       2  0 13:40 ?        00:00:00 [kdevtmpfs]
+root          21       2  0 13:40 ?        00:00:00 [inet_frag_wq]
+root          22       2  0 13:40 ?        00:00:00 [kauditd]
+root          23       2  0 13:40 ?        00:00:00 [khungtaskd]
+root          24       2  0 13:40 ?        00:00:00 [oom_reaper]
+root          27       2  0 13:40 ?        00:00:00 [writeback]
+root          28       2  0 13:40 ?        00:00:00 [kcompactd0]
+root          29       2  0 13:40 ?        00:00:00 [ksmd]
+root          30       2  0 13:40 ?        00:00:00 [khugepaged]
+root          31       2  0 13:40 ?        00:00:00 [kintegrityd]
+root          32       2  0 13:40 ?        00:00:00 [kblockd]
+root          33       2  0 13:40 ?        00:00:00 [blkcg_punt_bio]
+root          34       2  0 13:40 ?        00:00:00 [tpm_dev_wq]
+root          35       2  0 13:40 ?        00:00:00 [ata_sff]
+root          36       2  0 13:40 ?        00:00:00 [md]
+root          37       2  0 13:40 ?        00:00:00 [edac-poller]
+root          38       2  0 13:40 ?        00:00:00 [devfreq_wq]
+root          39       2  0 13:40 ?        00:00:00 [watchdogd]
+root          40       2  0 13:40 ?        00:00:02 [kworker/0:1H-kblockd]
+root          41       2  0 13:40 ?        00:00:02 [kswapd0]
+root          42       2  0 13:40 ?        00:00:00 [ecryptfs-kthread]
+root          48       2  0 13:40 ?        00:00:00 [kthrotld]
+root          52       2  0 13:40 ?        00:00:00 [acpi_thermal_pm]
+root          53       2  0 13:40 ?        00:00:00 [xenbus_probe]
+root          54       2  0 13:40 ?        00:00:00 [scsi_eh_0]
+root          55       2  0 13:40 ?        00:00:00 [scsi_tmf_0]
+root          56       2  0 13:40 ?        00:00:00 [scsi_eh_1]
+root          57       2  0 13:40 ?        00:00:00 [scsi_tmf_1]
+root          58       2  0 13:40 ?        00:00:00 [vfio-irqfd-clea]
+root          60       2  0 13:40 ?        00:00:00 [mld]
+root          61       2  0 13:40 ?        00:00:00 [ipv6_addrconf]
+root          66       2  0 13:40 ?        00:00:00 [kstrp]
+root          72       2  0 13:40 ?        00:00:00 [zswap-shrink]
+root          73       2  0 13:40 ?        00:00:00 [kworker/u3:0]
+root         119       2  0 13:40 ?        00:00:00 [charger_manager]
+root         159       2  0 13:40 ?        00:00:00 [scsi_eh_2]
+root         161       2  0 13:40 ?        00:00:00 [scsi_tmf_2]
+root         186       2  0 13:40 ?        00:00:03 [jbd2/sda3-8]
+root         187       2  0 13:40 ?        00:00:00 [ext4-rsv-conver]
+root         226       1  0 13:40 ?        00:00:02 /lib/systemd/systemd-journald
+root         256       2  0 13:40 ?        00:00:00 [ipmi-msghandler]
+root         277       1  0 13:40 ?        00:00:00 /lib/systemd/systemd-udevd
+root         315       2  0 13:40 ?        00:00:00 [cryptd]
+root         354       2  0 13:40 ?        00:00:01 [irq/18-vmwgfx]
+root         357       2  0 13:40 ?        00:00:00 [card0-crtc0]
+root         359       2  0 13:40 ?        00:00:00 [card0-crtc1]
+root         361       2  0 13:40 ?        00:00:00 [card0-crtc2]
+root         366       2  0 13:40 ?        00:00:00 [card0-crtc3]
+root         370       2  0 13:40 ?        00:00:00 [card0-crtc4]
+root         374       2  0 13:40 ?        00:00:00 [card0-crtc5]
+root         376       2  0 13:40 ?        00:00:00 [card0-crtc6]
+root         378       2  0 13:40 ?        00:00:00 [card0-crtc7]
+systemd+     453       1  0 13:40 ?        00:00:04 /lib/systemd/systemd-oomd
+systemd+     454       1  0 13:40 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     455       1  0 13:40 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         615       1  0 13:41 ?        00:00:00 /usr/libexec/accounts-daemon
+root         616       1  0 13:41 ?        00:00:00 /usr/sbin/acpid
+avahi        618       1  0 13:41 ?        00:00:00 avahi-daemon: running [cstzo-VirtualBox.local]
+root         619       1  0 13:41 ?        00:00:00 /usr/sbin/cron -f -P
+message+     622       1  0 13:41 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         623       1  0 13:41 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         637       1  0 13:41 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         641       1  0 13:41 ?        00:00:00 /usr/libexec/polkitd --no-debug
+root         642       1  0 13:41 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       646       1  0 13:41 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         649       1  3 13:41 ?        00:02:15 /usr/lib/snapd/snapd
+root         650       1  0 13:41 ?        00:00:00 /usr/libexec/switcheroo-control
+root         652       1  0 13:41 ?        00:00:00 /lib/systemd/systemd-logind
+root         662       1  0 13:41 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         667       1  0 13:41 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        693     618  0 13:41 ?        00:00:00 avahi-daemon: chroot helper
+root         713       1  0 13:41 ?        00:00:00 /usr/sbin/ModemManager
+root         716       1  0 13:41 ?        00:00:00 /usr/sbin/cupsd -l
+root         744       1  0 13:41 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         746       1  0 13:41 ?        00:00:00 /usr/sbin/gdm3
+root         775       1  0 13:41 ?        00:00:00 /usr/sbin/cups-browsed
+root         790     746  0 13:41 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+kernoops     801       1  0 13:41 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     803       1  0 13:41 ?        00:00:00 /usr/sbin/kerneloops
+cstzo        813       1  0 13:41 ?        00:00:04 /lib/systemd/systemd --user
+cstzo        814     813  0 13:41 ?        00:00:00 (sd-pam)
+cstzo        839     813  0 13:41 ?        00:00:00 /usr/bin/pipewire
+cstzo        840     813  0 13:41 ?        00:00:00 /usr/bin/pipewire-media-session
+cstzo        841     813  0 13:41 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+rtkit        844       1  0 13:41 ?        00:00:00 /usr/libexec/rtkit-daemon
+cstzo        849     813  0 13:41 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+cstzo        851       1  0 13:41 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+cstzo        857     790  0 13:41 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+cstzo        862     857  0 13:41 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+cstzo        876     813  0 13:41 ?        00:00:00 /usr/libexec/gvfsd
+cstzo        910     813  0 13:41 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+cstzo        940     813  0 13:41 ?        00:00:00 /usr/libexec/gnome-remote-desktop-daemon
+cstzo        941     813  0 13:41 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+cstzo        949     813  0 13:41 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+cstzo        975     813  5 13:41 ?        00:03:17 /usr/bin/gnome-shell
+cstzo        978     949  0 13:41 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+cstzo        985     978  0 13:41 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+cstzo       1029     813  0 13:41 ?        00:00:00 /usr/libexec/xdg-permission-store
+cstzo       1034     813  0 13:41 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+root        1035       1  0 13:41 ?        00:00:00 /usr/libexec/upowerd
+cstzo       1041     813  0 13:41 ?        00:00:00 /usr/libexec/evolution-source-registry
+cstzo       1052     813  0 13:41 ?        00:00:00 /usr/libexec/goa-daemon
+cstzo       1053     813  0 13:41 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+cstzo       1064     813  0 13:41 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+cstzo       1067     813  0 13:41 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+cstzo       1069     813  0 13:41 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+cstzo       1079     813  0 13:41 ?        00:00:00 /usr/libexec/dconf-service
+cstzo       1085     813  0 13:41 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+cstzo       1093     813  0 13:41 ?        00:00:00 /usr/libexec/goa-identity-service
+cstzo       1095     813  0 13:41 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+cstzo       1102     813  0 13:41 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+root        1119       1  0 13:41 ?        00:00:00 /usr/libexec/packagekitd
+cstzo       1126     876  0 13:41 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+cstzo       1132     813  0 13:41 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+cstzo       1134     813  0 13:41 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+cstzo       1141     813  0 13:41 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+cstzo       1144    1141  0 13:41 ?        00:00:03 /usr/bin/ibus-daemon --panel disable
+cstzo       1145     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+cstzo       1146     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-color
+cstzo       1148     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-datetime
+cstzo       1149     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-housekeeping
+cstzo       1152     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-keyboard
+cstzo       1153     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-media-keys
+cstzo       1155     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-power
+cstzo       1156     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-print-notifications
+cstzo       1157     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-rfkill
+cstzo       1158     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+cstzo       1162     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-sharing
+cstzo       1164     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-smartcard
+cstzo       1170     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-sound
+cstzo       1173     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-wacom
+cstzo       1198     949  0 13:41 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+cstzo       1215    1144  0 13:41 ?        00:00:00 /usr/libexec/ibus-dconf
+cstzo       1216    1144  0 13:41 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+cstzo       1233     813  0 13:41 ?        00:00:00 /usr/libexec/ibus-portal
+cstzo       1242     949  0 13:41 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+cstzo       1279     813  0 13:41 ?        00:00:00 /usr/libexec/gsd-printer
+cstzo       1310    1144  0 13:41 ?        00:00:01 /usr/libexec/ibus-engine-simple
+colord      1327       1  0 13:41 ?        00:00:00 /usr/libexec/colord
+cstzo       1336     813  0 13:41 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+cstzo       1341     813  0 13:41 ?        00:00:02 /usr/libexec/gnome-initial-setup --existing-user
+cstzo       1344     813  0 13:41 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        1350    1344  0 13:41 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+cstzo       1354     813  0 13:41 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+cstzo       1425     813  0 13:41 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+cstzo       1512     813  0 13:41 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+cstzo       1564     813  0 13:41 ?        00:00:00 /usr/libexec/gvfsd-metadata
+cstzo       1626     949  0 13:42 ?        00:00:00 update-notifier
+cstzo       2023     813  0 13:44 ?        00:00:04 /usr/bin/nautilus --gapplication-service
+root        2334       2  0 13:54 ?        00:00:01 [kworker/u2:2-events_unbound]
+cstzo       2468     975  0 13:56 ?        00:00:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:600:1:27:0:0:0:0
+root        2783       2  0 14:05 ?        00:00:00 [kworker/u2:1-ext4-rsv-conversion]
+cstzo       2913     975  4 14:07 ?        00:01:24 /snap/firefox/2605/usr/lib/firefox/firefox
+cstzo       3068     975  0 14:07 ?        00:00:07 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.IWSZ41 -listen 4 -listen 5 -displayfd 6 -initfd 7
+cstzo       3071     813  0 14:07 ?        00:00:00 /usr/libexec/gsd-xsettings
+cstzo       3097     813  0 14:07 ?        00:00:00 /usr/libexec/ibus-x11
+cstzo       3143    2913  0 14:07 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -parentBuildID 20230424185118 -prefsLen 18876 -prefMapSize 228584 -appDir /snap/firefox/2605/usr/lib/firefox/browser {d3db7c71-df4c-4f70-8538-485d80078404} 2913 true socket
+cstzo       3182    2913  0 14:07 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 21209 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {f76783fe-5511-4081-963f-ea5564a7fe0c} 2913 true tab
+cstzo       3198    2913  0 14:07 ?        00:00:03 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 22370 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {c3714b1b-a557-40b6-ad38-e175a96a8ecf} 2913 true tab
+cstzo       3235     813  0 14:07 ?        00:00:00 /usr/bin/snap userd
+cstzo       3356    2913  0 14:07 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 22038 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {eaf8aec1-6e96-4853-81be-0b87a1ccd1be} 2913 true tab
+cstzo       3630    2913  0 14:07 ?        00:00:04 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 27640 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {3d95186a-e9b5-4d22-ab50-235ed99a7db5} 2913 true tab
+cstzo       3660    2913  1 14:07 ?        00:00:29 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 27680 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {c93f6688-dbdf-45ba-a3f8-f548ab669ec1} 2913 true tab
+cstzo       5866    2913  0 14:13 ?        00:00:03 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 28698 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {7a1038c4-dc4e-46f6-8c54-f53afa20055d} 2913 true tab
+cstzo       6124    2913  0 14:13 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -parentBuildID 20230424185118 -prefsLen 31125 -prefMapSize 228584 -appDir /snap/firefox/2605/usr/lib/firefox/browser {6a248503-d803-4f95-83c4-b99d46a6365b} 2913 true rdd
+cstzo       6125    2913  0 14:13 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -parentBuildID 20230424185118 -sandboxingKind 0 -prefsLen 31125 -prefMapSize 228584 -appDir /snap/firefox/2605/usr/lib/firefox/browser {0796f2c8-69b1-4ce8-a958-db8f5602998e} 2913 true utility
+cstzo      12442    2913  0 14:22 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 15 -isForBrowser -prefsLen 28755 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {8ac2ec7c-c889-4fd1-b4d3-abbdff642faa} 2913 true tab
+cstzo      12639    2913  0 14:23 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 16 -isForBrowser -prefsLen 28755 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {1d96b14e-a87c-43fd-901a-73b53e7ea0ef} 2913 true tab
+cstzo      12680    2913  0 14:23 ?        00:00:00 /snap/firefox/2605/usr/lib/firefox/firefox -contentproc -childID 17 -isForBrowser -prefsLen 28755 -prefMapSize 228584 -jsInitLen 240056 -parentBuildID 20230424185118 -appDir /snap/firefox/2605/usr/lib/firefox/browser {60b839ce-d3b8-465c-9237-40da43519cba} 2913 true tab
+root       17511       2  0 14:30 ?        00:00:00 [kworker/u2:3-events_unbound]
+cstzo      17696     813  0 14:30 ?        00:00:02 /usr/libexec/gnome-terminal-server
+cstzo      17714   17696  0 14:30 pts/0    00:00:00 bash
+root       19518       2  0 14:32 ?        00:00:00 [kworker/0:2-cgroup_destroy]
+root       21752       2  0 14:35 ?        00:00:00 [kworker/u2:0-events_unbound]
+root       23543       2  0 14:38 ?        00:00:00 [kworker/0:0-events]
+cstzo      24102     813  0 14:38 ?        00:00:00 /usr/libexec/tracker-extract-3
+cstzo      24295   17714  0 14:39 pts/0    00:00:00 ps -ef
